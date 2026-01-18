@@ -67,6 +67,7 @@ Encargado de la lógica del formulario, manejo de eventos, visualización del mo
 
 👉 Enlace directo a la demo:  
  https://benja-menis.github.io/formulario.reserva/
+ 
 📌 Nota final
 
 Este proyecto forma parte de mi portafolio profesional y fue desarrollado como una demo funcional y escalable, ideal para mostrar cómo podría comportarse un sistema de reservas real para cosmetología, estética o negocios de bienestar.
